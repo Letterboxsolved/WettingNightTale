@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WNT</string>
+    <string name="load_game">Load Game</string>
+    <string name="new_game">New Game</string>
+    <string name="options">Options</string>
+    <string name="credits">Credits</string>
+    <string name="wnt_logo">WNT Logo</string>
+    <string name="back">back</string>
+    <string name="button">Load Game</string>
+</resources>
